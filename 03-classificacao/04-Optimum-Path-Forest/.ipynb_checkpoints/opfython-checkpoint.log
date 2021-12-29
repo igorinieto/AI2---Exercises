@@ -1,0 +1,16 @@
+2021-11-23 21:29:37,666 - opfython.stream.splitter — INFO — Splitting data ...
+2021-11-23 21:29:37,669 - opfython.stream.splitter — DEBUG — X_1: (160, 2) | X_2: (40, 2) | Y_1: (160,) | Y_2: (40,).
+2021-11-23 21:29:37,671 - opfython.stream.splitter — INFO — Data splitted.
+2021-11-23 21:29:37,672 - opfython.models.supervised — INFO — Overriding class: OPF -> SupervisedOPF.
+2021-11-23 21:29:37,673 - opfython.core.opf — INFO — Creating class: OPF.
+2021-11-23 21:29:37,674 - opfython.core.opf — DEBUG — Distance: log_squared_euclidean | Pre-computed distance: False.
+2021-11-23 21:29:37,677 - opfython.core.opf — INFO — Class created.
+2021-11-23 21:29:37,677 - opfython.models.supervised — INFO — Class overrided.
+2021-11-23 21:29:37,679 - opfython.models.supervised — INFO — Fitting classifier ...
+2021-11-23 21:29:37,681 - opfython.models.supervised — DEBUG — Finding prototypes ...
+2021-11-23 21:29:38,437 - opfython.models.supervised — DEBUG — Prototypes: [147, 60].
+2021-11-23 21:29:38,482 - opfython.models.supervised — INFO — Classifier has been fitted.
+2021-11-23 21:29:38,483 - opfython.models.supervised — INFO — Training time: 0.802135705947876 seconds.
+2021-11-23 21:29:38,485 - opfython.models.supervised — INFO — Predicting data ...
+2021-11-23 21:29:38,496 - opfython.models.supervised — INFO — Data has been predicted.
+2021-11-23 21:29:38,497 - opfython.models.supervised — INFO — Prediction time: 0.009815692901611328 seconds.
