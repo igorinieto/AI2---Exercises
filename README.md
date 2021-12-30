@@ -1,3 +1,3 @@
 # AI2---Atividades
 
-**Atividades resolvidas durante a especialização em Inteligência Artificial Aplicada a Indústria**
+**Atividades desenvolvidas durante a especialização em Inteligência Artificial Aplicada a Indústria**
